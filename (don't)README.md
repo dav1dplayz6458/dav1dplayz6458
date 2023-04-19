@@ -1,0 +1,5 @@
+- 👋 Hi, I’m David a developer who's programs discord bots and websites 
+- 👀 I’m interested in programming and story writing 
+- 🌱 I’m currently learning Rust and GO
+- 💞️ I’m looking to collaborate on weekends and holidays
+- 📫 How to reach me email me: dav1dplayz6458@gmail.com
